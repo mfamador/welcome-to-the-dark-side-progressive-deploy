@@ -1,12 +1,13 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-- [Welcome to the Dark Side of Progressive Delivery](#welcome-to-the-dark-side-of-progressive-delivery)
+**Table of Contents**  
 
 - [Welcome to the Dark Side of Progressive Delivery](#welcome-to-the-dark-side-of-progressive-delivery)
   - [Links](#links)
   - [Contribute](#contribute)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 
 # Welcome to the Dark Side of Progressive Delivery
